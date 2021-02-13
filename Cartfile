@@ -1,2 +1,2 @@
-github "oktossm/PINRemoteImage" "fix-xcode-12.0b4"
-github "pinterest/PINCache" "master"
+github "oktossm/PINRemoteImage" "webp-off"
+github "pinterest/PINCache" "3.0.3"
